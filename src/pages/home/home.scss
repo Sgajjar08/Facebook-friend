@@ -30,8 +30,7 @@ page-home {
         color: #000;
         pointer-events: auto;
     }
-    .button-ios,
-    .button-md {
+    .next {
         float: right;
         background-color: white;
         color: black;
@@ -48,7 +47,7 @@ page-home {
         border-width: 2px;
         border-style: solid;
         border-color: #f53d3d;
-        color: #cc3636;
+        color: #f43a50;
         height: 2.8em;
         font-size: 1.6rem;
         margin: 0;
@@ -75,7 +74,7 @@ page-home {
         padding: 0 2em;
         height: 25px;
         font-size: 1.2rem;
-        border: 1px solid #ef4065;
+        border: 1px solid #f43a50;
     }
     .follow {
         padding: 0px 1.5em;
@@ -84,7 +83,7 @@ page-home {
         border-radius: 5px;
         font-size: 1.2rem;
         color: white;
-        background-color: #ff446c;
+        background-color: #f44c60;
         border-width: 1px;
         border-style: solid;
         border-color: #ff446c;
